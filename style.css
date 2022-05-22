@@ -1,0 +1,153 @@
+body{
+	background-color: white;
+	font-size: 16px;
+	font-family: 'American Typewriter', sans-serif;
+	color: white;
+}
+
+body  {
+   background-image: url("https://th.bing.com/th/id/OIP.T2XNLw0DaAz3sxHsSWsNPwHaHa?pid=ImgDet&rs=1");
+   background-color: #cccccc;
+}
+
+h1{
+	font-size: 37px;
+	line-height: 1;
+	letter-spacing: 1px;
+	font-weight: bold;
+	color: rgb(230, 100, 64 );
+	font-family: 'Modern Love Grunge', sans-serif;
+}
+h2{
+	font-size: 23px;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	font-weight: 600;
+	color: rgb(244, 125, 64 );
+	font-family: 'Modern Love Grunge', sans-serif;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+ }
+
+
+
+ /*Custom design with class*/
+
+ div{
+ 	text-align: center;
+ 	border: dashed;
+ 	margin-right: 400px;
+	margin-left: 400px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+@media(max-width: 650px){
+ 	.container{
+ 		width: 350px
+ 	}
+ }
+
+ @media(max-width: 500px){
+ 	.container{
+ 		width: 430px
+ 	}
+
+ }
+
+
+.element1{
+	border: none;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.element2{
+	border: none;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.element3{
+	border: none;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.element4{
+	border: none;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.element5{
+	border: none;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.element6{
+	border: none;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+.img{
+	border: solid;
+	text-align: center;
+}
+
+.btn-orange{
+	background-color: ##5E83E9;
+	color: white;
+	padding: 15px 30px;
+	border-radius: 10px;
+}
+
+.btn-orange:hover {
+	background-color: ##D3D3D3;
+	color: white;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 15px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color: #FFC0CB
+}
+
+.list-inline i:hover {
+	font-size: 50px;
+	color: #000000
+}
+
